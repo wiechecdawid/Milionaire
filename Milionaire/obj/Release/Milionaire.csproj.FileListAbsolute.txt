@@ -1,0 +1,7 @@
+C:\projects\milions\milions\bin\Release\Milionaire.exe.config
+C:\projects\milions\milions\bin\Release\Milionaire.exe
+C:\projects\milions\milions\bin\Release\Milionaire.pdb
+C:\projects\milions\milions\obj\Release\Milionaire.csprojResolveAssemblyReference.cache
+C:\projects\milions\milions\obj\Release\Milionaire.csproj.CoreCompileInputs.cache
+C:\projects\milions\milions\obj\Release\Milionaire.exe
+C:\projects\milions\milions\obj\Release\Milionaire.pdb
